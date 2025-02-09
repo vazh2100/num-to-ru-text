@@ -16,7 +16,7 @@ Add to `build.gradle.kts`:
 ```
 dependencies {
     ...
-    implementation("com.github.vazh2100:num-to-ru-text:v1.0.0")
+    implementation("com.github.vazh2100:num-to-ru-text:v1.0.1")
 }
 ```
 
